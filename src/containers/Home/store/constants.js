@@ -1,0 +1,2 @@
+const CHANG_LIST = 'HOME/CHANG_LIST'
+export { CHANG_LIST }
